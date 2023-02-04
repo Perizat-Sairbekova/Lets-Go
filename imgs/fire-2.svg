@@ -1,0 +1,38 @@
+<svg width="386" height="1000" viewBox="0 0 386 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_178_2301)">
+<mask id="mask0_178_2301" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="63" y="28" width="279" height="1137">
+<rect x="97.3789" y="1023" width="240" height="40" rx="20" transform="rotate(-90 97.3789 1023)" fill="black"/>
+<rect x="97" y="414" width="240" height="40" rx="20" transform="rotate(-90 97 414)" fill="black"/>
+<rect x="97" y="679" width="191" height="40" rx="20" transform="rotate(-90 97 679)" fill="black"/>
+<circle cx="117.5" cy="755.707" r="40" transform="rotate(-90 117.5 755.707)" stroke="black" stroke-width="28"/>
+<rect x="182.117" y="805.355" width="100" height="40" rx="20" transform="rotate(-90 182.117 805.355)" fill="black"/>
+<rect x="182" y="1125" width="240" height="40" rx="20" transform="rotate(-90 182 1125)" fill="black"/>
+<rect x="267" y="1165" width="240" height="40" rx="20" transform="rotate(-90 267 1165)" fill="black"/>
+<rect x="182.117" y="864.992" width="40" height="40" rx="20" transform="rotate(-90 182.117 864.992)" fill="black"/>
+<rect x="97" y="471" width="40" height="40" rx="20" transform="rotate(-90 97 471)" fill="black"/>
+<rect x="267" y="446" width="40" height="40" rx="20" transform="rotate(-90 267 446)" fill="black"/>
+<rect x="182.117" y="686.461" width="240" height="40" rx="20" transform="rotate(-90 182.117 686.461)" fill="black"/>
+<rect x="267" y="566" width="100" height="40" rx="20" transform="rotate(-90 267 566)" fill="black"/>
+<rect x="267" y="387" width="100" height="40" rx="20" transform="rotate(-90 267 387)" fill="black"/>
+<rect x="182" y="344" width="240" height="40" rx="20" transform="rotate(-90 182 344)" fill="black"/>
+<rect x="267" y="268" width="240" height="40" rx="20" transform="rotate(-90 267 268)" fill="black"/>
+<circle cx="202.238" cy="419.191" r="40" transform="rotate(-90 202.238 419.191)" stroke="black" stroke-width="28"/>
+<rect x="267.188" y="905.125" width="100" height="40" rx="20" transform="rotate(-90 267.188 905.125)" fill="black"/>
+<rect x="267.188" y="779.227" width="100" height="40" rx="20" transform="rotate(-90 267.188 779.227)" fill="black"/>
+<circle cx="287.309" cy="645.137" r="40" transform="rotate(-90 287.309 645.137)" stroke="black" stroke-width="28"/>
+<rect x="267" y="550" width="40" height="40" rx="20" transform="rotate(-90 267 550)" fill="black"/>
+</mask>
+<g mask="url(#mask0_178_2301)">
+<rect x="354" y="1000" width="337" height="1000" transform="rotate(180 354 1000)" fill="url(#paint0_linear_178_2301)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_178_2301" x1="522" y1="1073" x2="522" y2="1969.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF5C01"/>
+<stop offset="1" stop-color="#FF5B00" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip0_178_2301">
+<rect width="1000" height="386" fill="white" transform="translate(0 1000) rotate(-90)"/>
+</clipPath>
+</defs>
+</svg>
